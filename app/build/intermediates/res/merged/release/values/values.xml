@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Sobre">SOBRE</string>
+    <string name="app_name">Área do Aluno</string>
+    <style name="AppTheme" parent="@android:style/Theme.Holo.Light">
+	</style>
+</resources>
